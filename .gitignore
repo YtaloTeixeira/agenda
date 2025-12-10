@@ -1,0 +1,29 @@
+# Arquivos de banco de dados (gerados automaticamente)
+database.csv
+agenda.csv
+contatosImport.csv
+agenda.txt
+agenda.py
+*.txt
+*.csv
+
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
