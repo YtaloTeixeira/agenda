@@ -36,7 +36,7 @@ O sistema oferece as seguintes funcionalidades:
 ### 1. Clone ou baixe o projeto
 
 ```bash
-cd /caminho/do/projeto/contactList
+git clone 
 ```
 
 ### 2. Execute o programa
